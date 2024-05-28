@@ -22,7 +22,7 @@
   "author": "Hayk Margaryan",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/haykmargar/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
